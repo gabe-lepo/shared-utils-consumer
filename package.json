@@ -1,0 +1,23 @@
+{
+  "name": "shared-utils-consumer",
+  "version": "1.0.0",
+  "description": "Test consumer of the shared-utils-test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabe-lepo/shared-utils-consumer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabe-lepo/shared-utils-consumer/issues"
+  },
+  "homepage": "https://github.com/gabe-lepo/shared-utils-consumer#readme",
+  "dependencies": {
+    "@gabe-lepo/shared-utils-test": "^1.0.3"
+  }
+}
