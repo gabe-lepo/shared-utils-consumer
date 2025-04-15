@@ -4,7 +4,7 @@
   "description": "Test consumer of the shared-utils-test package",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/gabe-lepo/shared-utils-consumer#readme",
   "dependencies": {
-    "@gabe-lepo/shared-utils-test": "^1.0.3"
+    "@gabe-lepo/shared-utils-test": "^1.0.5"
   }
 }
